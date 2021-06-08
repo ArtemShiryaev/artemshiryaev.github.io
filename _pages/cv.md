@@ -30,9 +30,11 @@ Work experience
   
 Voluntary Engagement
 ======
-* UPF
-* UPF
-* UFS
+* Utrikespolitiska Förbundet Sverige, UFS
+  * Board Member, Sept. 2020 - Sept. 2021
+* Utrikespolitiska föreningen vid Umeå Universitet, UPF
+  * National Representative, Sept. 2020 - Sept. 2021
+  * Treasurer, Sept. 2018 - Dec. 2019
 
 
 Skills
