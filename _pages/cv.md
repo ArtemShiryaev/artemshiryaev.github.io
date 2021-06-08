@@ -11,9 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Civilekonomprogrammet med Internationell inriktning, Umeå Universitet, 2016 - 2019 (Unfinished)
+* Erasmus in Economics, University of Zürich, Spring 2020 
+* Bachelor of Science in Statistics, Umeå University, 2019 - 2021
+# * M.S. in Jekyll, GitHub University, 2014
+# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
