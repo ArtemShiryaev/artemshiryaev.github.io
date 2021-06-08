@@ -13,9 +13,8 @@ Education
 ======
 * Civilekonomprogrammet med Internationell inriktning, Umeå Universitet, 2016 - 2019 (Unfinished)
 * Erasmus in Economics, University of Zürich, Spring 2020 
-* Bachelor of Science in Statistics, Umeå University, 2019 - 2021
-# * M.S. in Jekyll, GitHub University, 2014
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Statistics, Umeå University, 2019 - 2021
+* M.S. in Mathematical Statistics, Umeå University, 2021 - 2023 (expected)
 
 Work experience
 ======
@@ -57,11 +56,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
