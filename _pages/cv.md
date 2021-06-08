@@ -32,7 +32,7 @@ Voluntary Engagement
   * Board Member, Sept. 2020 - Sept. 2021
 
 * International Office at Umeå University
- * Part of the Buddy Programme, helping International Students, Jan. 2019 – June 2019
+  * Part of the Buddy Programme, helping International Students, Jan. 2019 – June 2019
 
 * Utrikespolitiska föreningen vid Umeå Universitet, UPF
   * National Representative, Sept. 2020 - Sept. 2021
