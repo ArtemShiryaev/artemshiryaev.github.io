@@ -57,5 +57,5 @@ Software skills
   * STATA
 
 * Other software
- * Office package
- * Fortnox
+  * Office package
+  * Fortnox
