@@ -20,3 +20,5 @@ Kaggle
 Kaggle2
 ======
 * 123
+
+[Download Thesis here](http://artemshiryaev.github.io/files/BacherlorThesis.pdf)
