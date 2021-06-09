@@ -42,28 +42,20 @@ Voluntary Engagement
   * Student Representative, Aug. 2016 - June 2017
 
 
-Skills / Software?
+Software skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Intermediate level
+  * R
+  * MATLAB
+  * LaTeX
+  * R-markdown
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Beginner level
+  * Python
+  * SQL
+  * Github
+  * STATA
+
+* Other software
+ * Office package
+ * Fortnox
