@@ -17,7 +17,7 @@ Kaggle
 * Classification
 
 
-University
+University Projects
 ======
 * Bachelor Thesis
 
@@ -26,3 +26,7 @@ University
     [Download Thesis here](https://artemshiryaev.github.io/files/BachelorThesis.pdf)
 
     [Download R-code here](https://artemshiryaev.github.io/files/ThesisMethod.txt)
+
+* Courses
+    * Statistical Learning 
+    Some info..
