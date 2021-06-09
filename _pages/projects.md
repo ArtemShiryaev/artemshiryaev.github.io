@@ -24,4 +24,4 @@ June 2021, I submitted my bachelor thesis. We reviewed the Gaussian graphical mo
 
 [Download Thesis here](https://artemshiryaev.github.io/files/BachelorThesis.pdf)
 
-[Download R-code here](https://artemshiryaev.github.io/files/ThesisMethod.r)
+[Download R-code here](https://artemshiryaev.github.io/files/ThesisMethod.R)
