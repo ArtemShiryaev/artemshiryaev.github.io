@@ -17,8 +17,11 @@ Kaggle
 * Classification
 
 
-Kaggle2
+Bachelor Thesis, Spring 2021
 ======
-* 123
+June 2021, I submitted my bachelors thesis on using a graphical lasso in R. 
 
-[Download Thesis here](http://artemshiryaev.github.io/files/BacherlorThesis.pdf)
+I'll describe more in detail later.
+* Simulation Study
+
+[Download Thesis here](https://artemshiryaev.github.io/files/BachelorThesis.pdf)
