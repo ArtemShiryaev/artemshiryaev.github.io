@@ -9,10 +9,11 @@ author_profile: true
 
 Education
 ======
-* Civilekonomprogrammet med Internationell inriktning, Umeå Universitet, 2016 - 2019 (Unfinished)
-* Erasmus in Economics, University of Zürich, Spring 2020 
-* B.S. in Statistics, Umeå University, 2019 - 2021
 * M.S. in Mathematical Statistics, Umeå University, 2021 - 2023
+* B.S. in Statistics, Umeå University, 2019 - 2021
+* Erasmus in Economics, University of Zürich, Spring 2020 
+* Civilekonomprogrammet med Internationell inriktning, Umeå Universitet, 2016 - 2019 (Unfinished)
+
 
 Software skills
 ======
