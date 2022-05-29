@@ -9,6 +9,7 @@ author_profile: true
 
 Education
 ======
+* Erasmus at Technical University of Munich 2022-2023
 * M.S. in Mathematical Statistics, Umeå University, 2021 - 2023
 * B.S. in Statistics, Umeå University, 2019 - 2021
 * Erasmus in Economics, University of Zürich, Spring 2020 
