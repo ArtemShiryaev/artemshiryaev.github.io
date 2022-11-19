@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Kaggle Demon"
+permalink: /kaggledemon/
 author_profile: true
 ---
 
